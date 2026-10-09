@@ -1,0 +1,6 @@
+interface:
+  display_name: "Branding · 3K"
+  short_description: "Связать смысл бизнеса с визуальным характером"
+  default_prompt: "Используй $branding-3k, чтобы связать содержание, ощущение и особенности бизнеса в выразительную визуальную систему."
+policy:
+  allow_implicit_invocation: true
