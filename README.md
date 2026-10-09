@@ -1,4 +1,4 @@
-# Branding · 3K
+# creator1x · Branding · 3K
 
 A Codex skill for branding and art direction: **Content → Context → Creative**. It ties business facts to a visual system and checks that the identity survives inside the actual product.
 

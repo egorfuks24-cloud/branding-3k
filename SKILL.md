@@ -1,9 +1,11 @@
 ---
 name: branding-3k
 description: "Develop or repair a brand's visual identity through Content, Context and Creative: connect real business characteristics to composition, imagery and an interface. Use for branding, art direction, visual systems and complaints that a project looks generic. Not for a narrow UI bug, pure implementation or copywriting alone."
+metadata:
+  author: creator1x
 ---
 
-# Branding: three K
+# creator1x · Branding: three K
 
 Build a visual argument before choosing decoration. A convincing explanation must describe a visible decision grounded in the business; a plausible story invented after styling is not evidence.
 
